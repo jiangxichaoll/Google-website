@@ -1,7 +1,7 @@
 # 谷歌镜像网站收集
 
 ## 原版网页 `<h2>`
-[GitHub]([CitHub](http://googo.cf/)
+[谷歌镜像]([CitHub](http://googo.cf/)
 [GitHub]([CitHub](https://g.weme.so/)
 [CitHub]([CitHub](http://www.gog.pw/)
 [CitHub]([CitHub](https://g.eeload.com/)
