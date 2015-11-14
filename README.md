@@ -1,57 +1,57 @@
 # 谷歌镜像网站收集
 
 ## 原版网页
-[CitHub](http://googo.cf/)
+[谷歌1号](http://googo.cf/)
 
-[CitHub](https://g.weme.so/)
+[谷歌2号](https://g.weme.so/)
 
-[CitHub](http://www.gog.pw/)
+[谷歌3号](http://www.gog.pw/)
 
-[CitHub](https://g.eeload.com/)
+[谷歌4号](https://g.eeload.com/)
 
-[CitHub](https://www.guge119.com/)
+[谷歌5号](https://www.guge119.com/)
 
-[CitHub](http://g.kvm.la/)
+[谷歌6号](http://g.kvm.la/)
 
-[CitHub](http://g.yon.hk/)
+[谷歌7号](http://g.yon.hk/)
 
-[CitHub](http://hisbig.com/)
+[谷歌8号](http://hisbig.com/)
 
-[CitHub](https://gs.awei.me/)
+[谷歌9号](https://gs.awei.me/)
 
-[CitHub](http://s.jiasubao.co/)
+[谷歌10号](http://s.jiasubao.co/)
 
-[CitHub](http://gg.cytbj.com/)
+[谷歌11号](http://gg.cytbj.com/)
 
-[CitHub](https://www.ppx.pw/)
+[谷歌12号](https://www.ppx.pw/)
 
-[CitHub](http://www.guge.link/)
+[谷歌13号](http://www.guge.link/)
 
-[CitHub](http://www.fcczp.com/)
+[谷歌14号](http://www.fcczp.com/)
 
-[CitHub](http://www.ggooo.net/)
+[谷歌15号](http://www.ggooo.net/)
 
-[CitHub](https://www.guge.click/)
+[谷歌16号](https://www.guge.click/)
 
-[CitHub](https://www.guge.date/)
+[谷歌17号](https://www.guge.date/)
 
-[CitHub](https://gg.searcher.top/)
+[谷歌18号](https://gg.searcher.top/)
 
-[CitHub](http://youshengbs.com/)
+[谷歌19号](http://youshengbs.com/)
 
-[CitHub](http://gg.cellmean.com/)
+[谷歌20号](http://gg.cellmean.com/)
 
-[CitHub](http://google.kainidi.cn/)
+[谷歌21号](http://google.kainidi.cn/)
 
-[CitHub](http://google.itqy8.com/)
+[谷歌22号](http://google.itqy8.com/)
 
-[CitHub](https://google.xface.me/)
+[谷歌23号](https://google.xface.me/)
 
-[CitHub](http://go.hibenben.com/)
+[谷歌24号](http://go.hibenben.com/)
 
-[CitHub](http://www.baidu.com.se/)
+[谷歌25号](http://www.baidu.com.se/)
 
-[CitHub](https://google-hk.wewell.net/)
+[谷歌26号](https://google-hk.wewell.net/)
 
 ## 非原版网页
 [微搜](http://www.wesou.org/)
@@ -101,57 +101,57 @@
 [WebWebWeb](http://webwebweb.com/)
 
 ## 谷歌学术
-[CitHub](http://scholar.ppx.pw/)
+[学术1号](http://scholar.ppx.pw/)
 
-[CitHub](http://googo.cf/scholar/)
+[学术2号](http://googo.cf/scholar/)
 
-[CitHub](http://gg.cytbj.com/scholar/)
+[学术3号](http://gg.cytbj.com/scholar/)
 
-[CitHub](http://www.fcczp.com/scholar/)
+[学术4号](http://www.fcczp.com/scholar/)
 
-[CitHub](https://www.guge119.com/scholar/)
+[学术5号](https://www.guge119.com/scholar/)
 
-[CitHub](http://g.linkscholar.org/)
+[学术6号](http://g.linkscholar.org/)
 
-[CitHub](https://www.roolin.com/)
+[学术7号](https://www.roolin.com/)
 
-[CitHub](http://scholar.g363.com/)
+[学术8号](http://scholar.g363.com/)
 
-[CitHub](http://www.scholarnet.cn/)
+[学术9号](http://www.scholarnet.cn/)
 
-[CitHub](http://scholar.searcher.top/)
+[学术10号](http://scholar.searcher.top/)
 
-[CitHub](http://xueshu.cytbj.com/scholar/)
+[学术11号](http://xueshu.cytbj.com/scholar/)
 
-[CitHub](http://gfss.cc.wallpai.com/scholar/)
+[学术12号](http://gfss.cc.wallpai.com/scholar/)
 
-[CitHub](https://scholar.jiuminghu.com/scholar/)
+[学术13号](https://scholar.jiuminghu.com/scholar/)
 
 ## 谷歌图片
-[CitHub](http://googo.cf/imghp)
+[图片1号](http://googo.cf/imghp)
 
-[CitHub](https://g.eeload.com/imghp)
+[图片2号](https://g.eeload.com/imghp)
 
-[CitHub](http://www.fcczp.com/imghp)
+[图片3号](http://www.fcczp.com/imghp)
 
-[CitHub](http://gg.cellmean.com/imghp)
+[图片4号](http://gg.cellmean.com/imghp)
 
-[CitHub](https://www.guge119.com/imghp)
+[图片5号](https://www.guge119.com/imghp)
 
-[CitHub](http://hisbig.com/imghp)
+[图片6号](http://hisbig.com/imghp)
 
-[CitHub](https://g.weme.so/imghp)
+[图片7号](https://g.weme.so/imghp)
 
-[CitHub](http://gg.cytbj.com/imghp)
+[图片8号](http://gg.cytbj.com/imghp)
 
-[CitHub](https://www.ppx.pw/imghp)
+[图片9号](https://www.ppx.pw/imghp)
 
-[CitHub](http://www.guge.link/imghp)
+[图片10号](http://www.guge.link/imghp)
 
-[CitHub](https://www.guge.click/imghp)
+[图片11号](https://www.guge.click/imghp)
 
-[CitHub](https://google.xface.me/imghp)
+[图片12号](https://google.xface.me/imghp)
 
-[CitHub](https://google-hk.wewell.net/imghp)
+[图片13号](https://google-hk.wewell.net/imghp)
 
 欢迎各位大神补充 邮箱: <admin@6ag.cn>
